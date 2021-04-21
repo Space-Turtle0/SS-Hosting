@@ -5,18 +5,18 @@
     "icon": "https://st2.depositphotos.com/5266903/11380/v/950/depositphotos_113809396-stock-illustration-system-setup-flat-rounded-vector.jpg",
     "slug": "bug-bot",
     "status": "down",
-    "uptime": "1.59%",
+    "uptime": "1.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.59%",
+    "uptimeYear": "1.57%",
     "time": 169,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2021-04-21": 15,
+      "2021-04-21": 1323,
       "2021-04-20": 1440,
       "2021-04-19": 1440,
       "2021-04-18": 1440,
@@ -83,9 +83,9 @@
     "url": "$REPL_EVAL",
     "icon": "https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=1.0&px=999",
     "slug": "eval-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,6 +94,8 @@
     "timeWeek": 165,
     "timeMonth": 600,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-21": 0
+    }
   }
 ]
