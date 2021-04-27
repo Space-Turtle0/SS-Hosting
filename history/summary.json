@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2021-04-27": 1142,
+      "2021-04-27": 1155,
       "2021-04-26": 1440,
       "2021-04-25": 1440,
       "2021-04-24": 1440,
@@ -89,19 +89,19 @@
     "url": "$REPL_EVAL",
     "icon": "https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=1.0&px=999",
     "slug": "eval-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 167,
-    "timeWeek": 219,
-    "timeMonth": 586,
-    "timeYear": 424,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 420,
+    "timeDay": 153,
+    "timeWeek": 211,
+    "timeMonth": 575,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2021-04-27": 0
+      "2021-04-27": 13
     }
   }
 ]
