@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2021-05-16": 603,
+      "2021-05-16": 634,
       "2021-05-15": 1440,
       "2021-05-14": 1440,
       "2021-05-13": 1440,
@@ -108,7 +108,7 @@
     "url": "$REPL_EVAL",
     "icon": "https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=1.0&px=999",
     "slug": "eval-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
     "uptimeDay": "82.66%",
     "uptimeWeek": "96.24%",
