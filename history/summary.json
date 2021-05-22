@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2021-05-22": 56,
+      "2021-05-22": 112,
       "2021-05-21": 1440,
       "2021-05-20": 1440,
       "2021-05-19": 1440,
@@ -114,7 +114,7 @@
     "url": "$REPL_EVAL",
     "icon": "https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=1.0&px=999",
     "slug": "eval-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.52%",
@@ -126,6 +126,7 @@
     "timeMonth": 4189,
     "timeYear": 2119,
     "dailyMinutesDown": {
+      "2021-05-22": 0,
       "2021-05-20": 69,
       "2021-05-18": 346,
       "2021-05-17": 47,
